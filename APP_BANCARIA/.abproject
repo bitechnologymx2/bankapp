@@ -1,0 +1,45 @@
+{
+  "ProjectName": "APP_BANCARIA",
+  "ProjectGuid": "cf1ceb58-0b7f-41c9-9984-3e304c4c58a5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.APPBANCARIA",
+  "DisplayName": "APP_BANCARIA",
+  "Author": "",
+  "Description": "APP_BANCARIA",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{8c261f0e-8596-4912-80a2-99094d444573}",
+  "WP8ProductID": "{3d878676-be8c-4e4c-9d1e-0c2bb4528491}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.APPBANCARIA",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
